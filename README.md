@@ -1,8 +1,8 @@
-<h1 align="center">Hi im Angel 👋 | FullStack Developer 💻</h1>
+<h1 align="center">Hi im Angel | FullStack Developer </h1>
 
 ###
 
-<h2 align="left">About me! 🤓</h2>
+<h2 align="left">About me!</h2>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h6 align="left">🔴  Hello, my name is Angel Oncoy. I'm a Systems Engineering and Artificial Intelligence student at UPAO University in Peru.<br><br>🔴 I'm passionate about building functional and efficient applications, from backend design to frontend user experience. I enjoy working with modern technologies and keeping my code clean, scalable, and well-documented.<br><br>🔴 I always look for practical, user-focused solutions designed to scale without losing simplicity. For me, development isn't just about code; it's about solving problems in a clear, elegant, and professional way.</h6>
+<h6 align="left">  Hello, my name is Angel Oncoy. I'm a Systems Engineering and Artificial Intelligence student at UPAO University in Peru.<br><br>🔴 I'm passionate about building functional and efficient applications, from backend design to frontend user experience. I enjoy working with modern technologies and keeping my code clean, scalable, and well-documented.<br><br>🔴 I always look for practical, user-focused solutions designed to scale without losing simplicity. For me, development isn't just about code; it's about solving problems in a clear, elegant, and professional way.</h6>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">Known technologies! 👾</h2>
+<h2 align="left">Known technologies! </h2>
 
 ###
 
@@ -113,7 +113,4 @@
 <img align="left" height="300" src="https://th.bing.com/th/id/R.8b23c3a97f83d7826a99cd2008e6aa5d?rik=BWntJjYszoMBuA&pid=ImgRaw&r=0"  />
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=sbf1zpo1nhm3oblh96z8e3y9c&unique={true|1|on|yes})
 
-
-###
