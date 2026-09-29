@@ -3,12 +3,16 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=angeloncoy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113852397%3Fu%3D5ebeb532d9c700c8f795eb5c9f68d40c0316330d%26v%3D4" alt="angeloncoy hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=angeloncoy&theme=neon" alt="angeloncoy hero visual" />
 </p>
 
 <h1>Angel</h1>
-<p><b>Freelance developer or consultant</b></p>
-
+<p><b>Fullstack Developer</b></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angeloncoy/angeloncoy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/angeloncoy/angeloncoy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/angeloncoy/angeloncoy/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 ## The idea behind the work
@@ -16,8 +20,6 @@
 > Building useful things and learning in public.
 
 - 👥 **3** followers · **4** following
-
-*Small, useful work over vague claims.*
 
 ## Case studies
 
