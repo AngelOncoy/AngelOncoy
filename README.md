@@ -1,116 +1,51 @@
-<h1 align="center">Hi im Angel | FullStack Developer </h1>
-
-###
-
-<h2 align="left">About me!</h2>
-
-###
+## Selected work
 
 <div align="center">
-  <a href="www.linkedin.com/in/angel-oncoy-0843822a6" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="angelmauricioop@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="mau-1-21@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://www.instagram.com/angeloncoy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=angeloncoy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113852397%3Fu%3D5ebeb532d9c700c8f795eb5c9f68d40c0316330d%26v%3D4" alt="angeloncoy hero visual" />
+</p>
+
+<h1>Angel</h1>
+<p><b>Freelance developer or consultant</b></p>
+
 </div>
 
-###
+## The idea behind the work
 
-<h6 align="left">  Hello, my name is Angel Oncoy. I'm a Systems Engineering and Artificial Intelligence student at UPAO University in Peru.<br><br>🔴 I'm passionate about building functional and efficient applications, from backend design to frontend user experience. I enjoy working with modern technologies and keeping my code clean, scalable, and well-documented.<br><br>🔴 I always look for practical, user-focused solutions designed to scale without losing simplicity. For me, development isn't just about code; it's about solving problems in a clear, elegant, and professional way.</h6>
+> Building useful things and learning in public.
 
-###
+- 👥 **3** followers · **4** following
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angeloncoy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angeloncoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+*Small, useful work over vague claims.*
 
-###
+## Case studies
 
-<h2 align="left"></h2>
+<table>
+<tr><td width="32%"><b><a href="https://github.com/AngelOncoy/iot-estacionamiento">iot-estacionamiento</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/AngelOncoy/Backend_Model_Biometric">Backend_Model_Biometric</a></b></td><td>Backend principal para usar el modelo de extracción biométrico de embenddings (rostro y voz)<br/><sub>JavaScript · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/AngelOncoy/QAgent">QAgent</a></b></td><td>Sistema multiagente que genera y valida automáticamente diferentes tipos de pruebas<br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/AngelOncoy/CUA-BACKEND">CUA-BACKEND</a></b></td><td>Centro de Capacitacion Ultra-Automatizado. Proyecto para el curso de Automatizacion de procesos inteligentes usando por medio LangGprah y LangChain<br/><sub>Python · 0 stars</sub></td></tr>
+</table>
 
-###
+## Details worth noticing
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angeloncoy/angeloncoy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/angeloncoy/angeloncoy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/angeloncoy/angeloncoy/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=angeloncoy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113852397%3Fu%3D5ebeb532d9c700c8f795eb5c9f68d40c0316330d%26v%3D4" alt="angeloncoy highlights visual" />
+</p>
 
-###
+<p><b>Angel</b> is shipping 14 public projects with 2 stars of proof.</p>
 
-<h2 align="left">Known technologies! </h2>
+## Creative toolkit
 
-###
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) `Jupyter Notebook` ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) `HCL`
 
-<img align="right" height="212" src="https://media.tenor.com/_mkAmgFb7lAAAAAC/the-felix-cat-sing.gif"  />
+## Make something memorable
 
-###
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=angeloncoy&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113852397%3Fu%3D5ebeb532d9c700c8f795eb5c9f68d40c0316330d%26v%3D4" alt="angeloncoy social visual" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+<a href="https://github.com/angeloncoy">GitHub</a>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" height="40" alt="androidstudio logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h2 align="center">🎵</h2>
-
-###
-
-<img align="left" height="300" src="https://th.bing.com/th/id/R.8b23c3a97f83d7826a99cd2008e6aa5d?rik=BWntJjYszoMBuA&pid=ImgRaw&r=0"  />
-
-###
-
+<p align="center"><sub>Angel · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
